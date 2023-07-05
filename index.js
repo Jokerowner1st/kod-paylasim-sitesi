@@ -15,7 +15,7 @@ client.profil = profil
 client.ayarlar = {
   "prefix": "!", //prefix
   "oauthSecret": "A9CxRZMQK0Ra84iIRG-LTOYTC1JauXV1", //bot secreti
-	"callbackURL": "https://devturkiye.xyz/callback", //benim sitenin urlsini kendin ile değiş "/callback" kalacak!
+	"callbackURL": "https://kod-paylasim-sitesi-nine.vercel.app/callback", //benim sitenin urlsini kendin ile değiş "/callback" kalacak!
 	"kayıt": "688832677876727826", //onaylandı, reddedildi, başvuru yapıldı falan kayıtların gideceği kanalın ID'ini yazacaksın
   "renk": "RANDOM" //embedların rengini burdan alıo can sıkıntısdna yapılmış bişe falan fln
 };
